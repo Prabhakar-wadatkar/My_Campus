@@ -144,27 +144,6 @@ We are committed to providing you with the best stable service. We are committed
   </div>
   </div>
 </div>
-
-
-      <!-- alert start -->
-   <!-- <div class="col-md-4" clas="alert"  style="padding-top:90px">
-     </div>
-</div>
-   </div>
-   <div class="col-md-4" clas="alert"  style="padding-top:90px">
-   <div class="alert alert-warning" role="alert">
-     <div class="text-end">
-     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-     <img src="img/with_my_campus.png" style="height=25%" class="img-fluid" alt="my campus" srcset="">
-
-     </div>
-</div>
-   </div>
-   <div class="col-md-4" clas="alert"  style="padding-top:90px">
- </div>
-</div>
-   </div>
-   alert close -->
    </div>
 
 <!-- Button trigger modal -->
